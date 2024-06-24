@@ -9,8 +9,8 @@ I'm a dedicated front-end developer with a strong foundation in HTML, CSS, and J
 *   🌍  I'm based in West Dundee, IL
 *   ✉️  You can contact me at [john.fuen995@gmail.com](mailto:john.fuen995@gmail.com)
 *   🧠  I'm learning React
-*   🤝  I'm open to collaborating on Projects<a href="https://www.x.com/Jonfuen95" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Jonfuen95?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+*   🤝  I'm open to collaborating on Projects<a href="https://www.x.com/Jonfuen95" target="_blank" rel="noreferrer">
+<img  src="https://img.shields.io/twitter/follow/Jonfuen95?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
 
     ### Skills 
