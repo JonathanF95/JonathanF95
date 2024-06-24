@@ -1,7 +1,7 @@
 Hi 👋 My name is Jonathan Fuentes
 =================================
 
-Front-Emd Developer
+Front-End Developer
 -------------------
 
 I'm a dedicated front-end developer with a strong foundation in HTML, CSS, and JavaScript. Currently, I'm advancing my skills in React to build dynamic and responsive web applications. With a passion for clean code and user-centric design, I bring creativity and attention to detail to every project. Let's create engaging web experiences together!
