@@ -6,7 +6,7 @@ Front-End Developer
 
 I'm a dedicated front-end developer with a strong foundation in HTML, CSS, and JavaScript. Currently, I'm advancing my skills in React to build dynamic and responsive web applications. With a passion for clean code and user-centric design, I bring creativity and attention to detail to every project. Let's create engaging web experiences together!
 
-* 🌍  I'm based in West Dundee, IL
+* 🌍  I'm based near Chicago, IL
 * ✉️  You can contact me at [john.fuen995@gmail.com](mailto:john.fuen995@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
